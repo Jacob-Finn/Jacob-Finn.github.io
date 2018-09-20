@@ -3,8 +3,46 @@
     font-size: 20px;
     text-align: center;
     margin-top: 1%;
-
+    margin-left: 10%;
+    margin-right: 10%;
+    vertical-align: 100%;
 }
 .body {
-    background-color: black
+    background-color: rgb(199, 185, 185);
+}    
+#seekingJob {
+    color: green
+}
+#mainHeading {
+    margin: 0%;
+    padding: 0%;
+}
+.divider{
+    width:15px;
+    height:auto;
+    display:inline-block;
+}
+
+
+
+#aboutMeButton {
+    margin: auto;
+    margin-right: 25%;
+    margin-top: 0%;
+    width: 10%;
+}
+#contactButton {
+    margin: auto;
+    margin-left: 25%;
+    margin-top: 0%;
+    width: 10%;
+}
+
+#aboutMeButton:hover {
+    background-color: aliceblue;
+}
+
+#contactButton:hover {
+    background-color: tomato;
+
 }
