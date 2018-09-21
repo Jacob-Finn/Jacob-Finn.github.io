@@ -17,6 +17,28 @@
 .header {
     background-color: aqua
 }
+.emphasizedPicture {
+    border: 2px solid black;
+}
+#myPicture {
+
+}
+.informationTextTitle {
+    font-size: 35px;
+    font-stretch: expanded
+}
+.informationText {
+    font-family: 'Slabo 27px', serif;
+    font-size: 20px;
+}
+
+
+@media screen and (min-width: 800px) {
+    #homePageButton {
+        width: 10vw; 
+        margin-right: 79vw;
+        }
+    }
 
 
 
