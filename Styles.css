@@ -2,23 +2,11 @@
 .body {
     background-color: rgb(199, 185, 185);
 }    
-#seekingJob {
-    color: green
-}
 #mainHeading {
     text-align: center;
 }
-.divider{
-    width:15px;
-    height:auto;
-    display:inline-block;
-}
-
 .header {
     background-color: aqua
-}
-.emphasizedPicture {
-    border: 2px solid black;
 }
 #noSpacing {
     padding: 0%;
