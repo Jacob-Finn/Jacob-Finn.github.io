@@ -20,8 +20,10 @@
 .emphasizedPicture {
     border: 2px solid black;
 }
-#myPicture {
-
+#noSpacing {
+    padding: 0%;
+    margin-right: 0%;
+    margin-left: 0%;
 }
 .informationTextTitle {
     font-size: 35px;
