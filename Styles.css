@@ -30,8 +30,6 @@
         }
     }
 
-
-
 @media screen and (min-width: 800px) {
 #aboutMeButton {
     width: 10vw; 
@@ -50,5 +48,8 @@
 }
 
 #contactButton:hover {
+    background-color: rgba(168, 163, 156, 0.600);
+}
+#homePageButton:hover {
     background-color: rgba(168, 163, 156, 0.600);
 }
