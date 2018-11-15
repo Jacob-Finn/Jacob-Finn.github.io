@@ -13,7 +13,7 @@
 
 .carousel-item-format {
     color: white;
-    padding-bottom: 100%;
+    padding-bottom: 100vh;
     text-align: center;
 }
 
@@ -24,4 +24,8 @@
     -o-transform:scale(1.25); /* Opera */
     transform:scale(1.25);
     animation-duration: 2s;
+}
+
+.pl-75 {
+    padding-left: 75vh;
 }
